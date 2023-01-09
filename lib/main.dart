@@ -66,3 +66,12 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+class hello extends StatelessWidget {
+  const hello({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container();
+  }
+}
